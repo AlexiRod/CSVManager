@@ -1,0 +1,33 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\bin\Debug\CSVManager.exe.config
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\bin\Debug\CSVManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\bin\Debug\CSVManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.HistForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Задание 8. Файлы\CSVManager\CSVManager\obj\Debug\CSVManager.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\bin\Debug\CSVManager.exe.config
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\bin\Debug\CSVManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\bin\Debug\CSVManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\CSVManager\CSVManager\obj\Debug\CSVManager.ChartForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\bin\Debug\CSVManager.exe.config
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\bin\Debug\CSVManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\bin\Debug\CSVManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.ChartForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\CSVManager\CSVManager\obj\Debug\CSVManager.pdb
